@@ -32,7 +32,8 @@ uygulama exe dosyası olduğundan tek tıkla kurulum başlıyor ardından önün
 bir diğer seçenek ise  yasaklı uygulamalara girebilmek için her seferinde  "turkey_dnsredir_cmd" adlı butona basarak etkinleştirmenizdir arkada batch dosyası çalışır işiniz bittiğinde bu batch dosyasını  kapatabilirsiniz  hatta Free Network uygulamasınıda  kapatabilirsiniz
 Servisi silmek için "service_remove_cmd_path" adlı butona tıklamanız  bu butona tıkladığınızda servis silinir ve her  cihazınızı aç kapa yaptığınızda    yasaklı  uygulamalara erişemeyeceksiniz manuel olarak başlatmanız yada servisi tekrar kurmanız gerekmektedir
 > [!IMPORTANT]
-> exeyi çalıştırır çalıştırmaz hemen butonlara basarsanız hiçbirşey olmaz çünkü GoodbyeDPI kurulmamıştır bunu kurmak için FR Terminal eklentisini Appdata-Roaming-Free İnternet-Termınal  bölümüne (MoonDevelop web sitemden güncellemelerini indirebilirsiniz) dist,build klasörülerini ve .spec dosyasını Termınal klasörüne  koymalısınız terminalin çalışması için dosylar:dosya ekle
+> exeyi çalıştırır çalıştırmaz hemen butonlara basarsanız hiçbirşey olmaz çünkü GoodbyeDPI kurulmamıştır bunu kurmak için FR Terminal eklentisini Appdata-Roaming-Free İnternet-Termınal  bölümüne (MoonDevelop web sitemden güncellemelerini indirebilirsiniz) dist,build klasörülerini ve .spec dosyasını Termınal klasörüne  koymalısınız terminalin çalışması için dosylar:FR Terminal dosyalarını indirmek için: https://github.com/ArdaAykac/FR-Terminal  bu githubdan exe olanını indirin sadece exeyi indirebilirsiniz
+> MoonDevelop:https://ardaaykac.github.io/MoonDevelop/
  
 ##FR Terminal kullanımı ve commandlar
 FR terminal GoodbyeDPI turkeyi indirmeniz  veya başka işlemler yapmanız için geliştirilen terminaldir
